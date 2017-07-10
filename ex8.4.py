@@ -3,3 +3,5 @@ fh = open(fname)
 lst = list()
 for line in fh:
     print(line.rstrip())
+
+    

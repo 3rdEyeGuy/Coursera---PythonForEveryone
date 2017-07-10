@@ -11,3 +11,4 @@ for line in fh:
 
 msrtSrt = mstrLst.sort()
 print(mstrLst)
+

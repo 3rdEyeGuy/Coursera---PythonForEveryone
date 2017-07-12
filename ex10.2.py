@@ -14,5 +14,5 @@ for lin in handle:
         dicLs = dic.items()
     else: continue
 hrSort = sorted([(k,v) for k,v in dicLs])
-
-print(hrSort)       
+for k,v in hrSort:
+    print(k,v)
